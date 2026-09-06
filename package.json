@@ -1,0 +1,10 @@
+{
+  "name": "local-badges",
+  "version": "1.0.0",
+  "description": "LocalBadges plugin for Revenge / Bunny / Kettu / Vendetta",
+  "scripts": {
+    "build": "node build.mjs"
+  },
+  "author": "YourName",
+  "license": "MIT"
+}
